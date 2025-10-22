@@ -1,0 +1,3 @@
+[submodule "interface"]
+	path = interface
+	url = https://github.com/di-claro-batera/projeto_integrador_iv_univesp.git
